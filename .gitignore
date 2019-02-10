@@ -102,3 +102,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+
+.idea/*
+*_model
+samplesubmission.csv
+test.tsv
+train.tsv
+results*.csv
